@@ -12,7 +12,7 @@ Tenho mais de 5 anos de experiência na área tecnológica trabalhando desde o C
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andersonprofs/)
 [![Linkedin](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto://anderson.ferreira.prof@gmail.com)
 
-![Anderson GitHub stats](https://github-readme-stats.vercel.app/api?username=AndersonLord&show_icons=true&theme=dracula&count_private=true)
+![Anderson GitHub stats](https://github-readme-stats.vercel.app/api?username=AndersonLord&show_icons=true&theme=default&count_private=true&hide=issues)
 
 ## My Developer Skills 🚀
 
